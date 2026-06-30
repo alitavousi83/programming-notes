@@ -102,11 +102,16 @@ mindmap
 
 <summary>📂 Git & GitHub</summary>
 
-* 📖 Handwritten Notes
-* 📷 Notebook Pages
-* 💡 Tips & Tricks
-* 🧠 Concepts
-* 💻 Examples
+* 🌱 Version Control
+* 🌿 Know Git
+* ⚙️ Using Git
+* 🚀 Advanced Git
+* 👩‍💻 VIM editor  
+* ♻️ Restore in Git  
+* 🌳 Branch & Merge
+* 🐙 GitHub
+* ☁️ Remote Repository
+* ⚔️ Resolve Conflict
 
 </details>
 
