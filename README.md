@@ -83,14 +83,13 @@ mindmap
 ```text
 📦 Programming-Notes
 │
-├── 📁 Git
-├── 📁 GitHub
-├── 📁 HTML
-├── 📁 CSS
+├── 📁 Git-GitHub
+├── 📁 base-html+css
 ├── 📁 Advanced-CSS
 ├── 📁 JavaScript
 ├── 📁 UI-UX
 ├── 📁 Color-Psychology
+├── 📁 web-bootcamp
 │
 └── README.md
 ```
