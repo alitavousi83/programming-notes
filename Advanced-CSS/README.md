@@ -225,6 +225,11 @@
 
 ![Page 17](/Advanced-CSS/pic/css_17.jpg)
 
+```
+<link href="https://cdn.finca.ir/bootstrap/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.finca.ir/bootstrap/bootstrap.bundle.min.js"></script>
+```
+
 ---
 
 [⬆ Back to Top](#-advanced-css-notes-notes)
