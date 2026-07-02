@@ -26,7 +26,7 @@
 
 ---
 
->⚠️(page 1 to 20 ) : these picture start with page 17 in pic . becase these were part of css advance 
+>⚠️ At the top of the image, page numbers 17 through 36 are displayed instead of the correct numbers (1 through 20); this is due to the Bootstrap transition affecting the advanced CSS in that section.
 
 ---
 
