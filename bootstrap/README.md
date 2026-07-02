@@ -52,7 +52,7 @@
 
 # 📖 Page 02
 
-![Page 02](/pic/2.jpg)
+![Page 02](pic/2.jpg)
 
 ---
 
@@ -64,7 +64,7 @@
 
 # 📖 Page 03
 
-![Page 03](/pic/3.jpg)
+![Page 03](pic/3.jpg)
 
 ---
 
@@ -76,7 +76,7 @@
 
 # 📖 Page 04
 
-![Page 04](/pic/4.jpg)
+![Page 04](pic/4.jpg)
 
 ---
 
@@ -88,7 +88,7 @@
 
 # 📖 Page 05
 
-![Page 05](/pic/5.jpg)
+![Page 05](pic/5.jpg)
 
 ---
 
@@ -100,7 +100,7 @@
 
 # 📖 Page 06
 
-![Page 06](/pic/6.jpg)
+![Page 06](pic/6.jpg)
 
 ---
 
@@ -112,7 +112,7 @@
 
 # 📖 Page 07
 
-![Page 07](/pic/7.jpg)
+![Page 07](pic/7.jpg)
 
 ---
 
@@ -124,7 +124,7 @@
 
 # 📖 Page 08
 
-![Page 08](/pic/8.jpg)
+![Page 08](pic/8.jpg)
 
 ---
 
@@ -138,7 +138,7 @@
 
 # 📖 Page 09
 
-![Page 09](/pic/9.jpg)
+![Page 09](pic/9.jpg)
 
 ---
 
@@ -150,7 +150,7 @@
 
 # 📖 Page 10
 
-![Page 10](/pic/10.jpg)
+![Page 10](pic/10.jpg)
 
 ---
 
@@ -162,7 +162,7 @@
 
 # 📖 Page 11
 
-![Page 11](/pic/11.jpg)
+![Page 11](pic/11.jpg)
 
 ---
 
@@ -176,7 +176,7 @@
 
 # 📖 Page 12
 
-![Page 12](/pic/12.jpg)
+![Page 12](pic/12.jpg)
 
 ---
 
@@ -188,7 +188,7 @@
 
 # 📖 Page 13
 
-![Page 13](/pic/13.jpg)
+![Page 13](pic/13.jpg)
 
 ---
 
@@ -200,7 +200,7 @@
 
 # 📖 Page 14
 
-![Page 14](/pic/14.jpg)
+![Page 14](pic/14.jpg)
 
 ---
 
@@ -212,7 +212,7 @@
 
 # 📖 Page 15
 
-![Page 15](/pic/15.jpg)
+![Page 15](pic/15.jpg)
 
 ---
 
@@ -224,7 +224,7 @@
 
 # 📖 Page 16
 
-![Page 16](/pic/16.jpg)
+![Page 16](pic/16.jpg)
 
 ---
 
@@ -236,7 +236,7 @@
 
 # 📖 Page 17
 
-![Page 17](/pic/17.jpg)
+![Page 17](pic/17.jpg)
 
 ---
 
@@ -248,7 +248,7 @@
 
 # 📖 Page 18
 
-![Page 18](/pic/18.jpg)
+![Page 18](pic/18.jpg)
 
 ---
 
@@ -260,7 +260,7 @@
 
 # 📖 Page 19
 
-![Page 19](/pic/19.jpg)
+![Page 19](pic/19.jpg)
 
 ---
 
@@ -272,7 +272,7 @@
 
 # 📖 Page 20
 
-![Page 20](/pic/20.jpg)
+![Page 20](pic/20.jpg)
 
 ---
 
