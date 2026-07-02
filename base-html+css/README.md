@@ -2,6 +2,8 @@
 
 # 🌐 HTML & CSS Handwritten Notes
 
+<a id="-html--css-notes"></a>
+
 <img src="https://skillicons.dev/icons?i=html" height="70"/> <img src="https://skillicons.dev/icons?i=css" height="70"/>
 
 > My personal handwritten notes from learning HTML5 & CSS3.
