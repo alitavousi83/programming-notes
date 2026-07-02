@@ -22,7 +22,7 @@
 | Topic | Jump |
 |-------|------|
 | 🧩 Flexbox Layout | [page 1-8 →](#page-01) |
-| 🏗️ CSS Grid Layout | [page 9-11 →](#page-9) |
+| 🏗️ CSS Grid Layout | [page 9-11 →](#page-09) |
 | ✨ Transitions & Transform | [page 12-14 →](#page-12) |
 | 📱 Responsive Web Design | [page 15-16 →](#page-15) |
 | 🅱️ Bootstrap | [page 17-36 →](#page-17) |
