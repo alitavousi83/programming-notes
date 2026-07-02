@@ -5,6 +5,8 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
+<a id="-git--github-notes"></a>
+
 > My personal handwritten notes from learning Git & GitHub.
 
 </div>
