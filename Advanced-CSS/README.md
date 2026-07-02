@@ -2,7 +2,11 @@
 
 # ✨ Advanced CSS Notes Handwritten Notes
 
-<img src="https://skillicons.dev/icons?i=css" height="80"/>Advanced
+<img src="https://skillicons.dev/icons?i=css" height="80"/>
+
+# Advanced Css
+
+<a id="css-advanced"></a>
 
 ### 🎨 Animations • Flexbox • Grid • Responsive
 
@@ -35,7 +39,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -47,7 +51,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -59,7 +63,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -71,7 +75,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -83,7 +87,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -95,7 +99,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -107,7 +111,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -119,7 +123,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -131,7 +135,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -143,7 +147,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -155,7 +159,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -167,7 +171,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -179,7 +183,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -191,7 +195,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -203,7 +207,7 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
 
@@ -215,6 +219,6 @@
 
 ---
 
-[⬆ Back to Top](#-advanced-css-notes-notes)
+[⬆ Back to Top](#css-advanced)
 
 ---
