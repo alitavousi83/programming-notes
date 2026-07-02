@@ -4,6 +4,9 @@
 
 <img src="https://skillicons.dev/icons?i=js" height="80"/>
 
+<a id="-javascript-notes-notes"></a>
+
+
 ### 💛 Logic • ES6+ • DOM • Modern JavaScript
 
 > My personal handwritten notes from learning **JavaScript Notes**.
