@@ -34,7 +34,7 @@
 
 # 📖 Page 01
 
-![Page 01](/pic/1.jpg)
+![Page 01](pic/1.jpg)
 
 
 ```
