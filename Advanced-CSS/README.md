@@ -41,7 +41,7 @@
 |-------|------|
 | 🌊 Cascade | [page 17-18 →](#page-17) |
 | 🕹️ selectors | [page 18-19 →](#page-18) |
-| ✨ Transitions & Transform | [page 12-14 →](#page-12) |
+| ✨ positioning | [page 20 →](#page-20) |
 | 📱 Responsive Web Design | [page 15-16 →](#page-15) |
 | 🅱️ Bootcamp | [page 17 →](#page-17) |
 
