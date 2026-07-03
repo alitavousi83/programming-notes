@@ -30,6 +30,30 @@
 </div>
 
 ---
+---
+---
+
+<div align="center">
+
+# 🅱️ Bootcamp
+
+| Topic | Jump |
+|-------|------|
+| 🌊 Cascade | [page 17-18 →](#page-17) |
+| 🕹️ selectors | [page 18-19 →](#page-18) |
+| ✨ Transitions & Transform | [page 12-14 →](#page-12) |
+| 📱 Responsive Web Design | [page 15-16 →](#page-15) |
+| 🅱️ Bootcamp | [page 17 →](#page-17) |
+
+</div>
+
+---
+---
+---
+
+<br>
+
+
 
 <a id="page-01"></a>
 
@@ -216,6 +240,73 @@
 # 📖 Page 16
 
 ![Page 16](/Advanced-CSS/pic/css_16.jpg)
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+<a id="page-17"></a>
+
+# 📖 Page 17 (🅱️ Bootcamp => page 1 css)
+
+> The Cascade - Specificity and Inheritance:
+
+![Page 17.1](/Advanced-CSS/pic/cascading%20css.png)
+
+![Page 17](/Advanced-CSS/pic/cssBootcamp_1.jpg)
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+<a id="page-18"></a>
+
+# 📖 Page 18 (🅱️ Bootcamp => page 2 css)
+
+>Combining CSS Selectors
+
+![Page 18](/Advanced-CSS/pic/cssBootcamp_2.jpg)
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+<a id="page-19"></a>
+
+# 📖 Page 19 (🅱️ Bootcamp => page 3 css)
+
+![Page 19](/Advanced-CSS/pic/cssBootcamp_3.jpg)
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+<a id="page-20"></a>
+
+# 📖 Page 20 (🅱️ Bootcamp => page 4 css)
+
+>CSS Positioning
+
+https://appbrewery.github.io/css-positioning/
+
+![Page 20.1](/Advanced-CSS/pic/positioning.png)
+
+![Page 20.2](/Advanced-CSS/pic/positioning1.png)
+
+![Page 20.3](/Advanced-CSS/pic/positioning2.png)
+
+![Page 20.4](/Advanced-CSS/pic/positioning3.png)
+
+
+![Page 20](/Advanced-CSS/pic/cssBootcamp_4.jpg)
 
 ---
 
