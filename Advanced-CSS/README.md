@@ -42,8 +42,8 @@
 | 🌊 Cascade | [page 17-18 →](#page-17) |
 | 🕹️ selectors | [page 18-19 →](#page-18) |
 | ✨ positioning | [page 20 →](#page-20) |
-| 📱 Responsive Web Design | [page 15-16 →](#page-15) |
-| 🅱️ Bootcamp | [page 17 →](#page-17) |
+| 📱 display | [page 21 →](#page-21) |
+| 🫧 float | [page 22 →](#page-22) |
 
 </div>
 
@@ -307,6 +307,66 @@ https://appbrewery.github.io/css-positioning/
 
 
 ![Page 20](/Advanced-CSS/pic/cssBootcamp_4.jpg)
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+
+<a id="page-21"></a>
+
+
+# 📖 Page 21  (display in css )
+
+https://appbrewery.github.io/css-display/
+
+
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+---
+
+<a id="page-22"></a>
+
+
+# 📖 Page 22  (float in css )
+
+![Page 20](/Advanced-CSS/pic/float.png)
+
+<div align="center">
+
+>wehen we can use **'clear'**
+
+when we set float for all items but we want an exeptions  we use 'clear'. 
+
+
+</div>
+
+
+![Page 20](/Advanced-CSS/pic/float2.png)
+
+<div align="center">
+
+for example in this pic :
+
+we can set **float : left** for 'sidebar' to move left 
+
+and we can set **float : right** for 'main content' to move right 
+
+> but we want to footer in all the buttom of those :
+
+then we can set  **clear : both** to delete **float : right** and **float : left** .
+
+
+</div>
+
+
 
 ---
 
