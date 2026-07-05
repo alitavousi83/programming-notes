@@ -45,6 +45,7 @@
 | 📱 display | [page 21 →](#page-21) |
 | 🫧 float | [page 22 →](#page-22) |
 | 📲 Responsive | [page 23 →](#page-23) |
+| @ Media Queries | [page 24 →](#page-24) |
 
 
 </div>
@@ -332,7 +333,6 @@ https://appbrewery.github.io/css-display/
 
 ---
 
----
 
 <a id="page-22"></a>
 
@@ -387,15 +387,23 @@ then we can set  **clear : both** to delete **float : right** and **float : left
 
 ![Page 23.1](/Advanced-CSS/pic/responsive.png)
 
-![Page 23.1](/Advanced-CSS/pic/responsive1.png)
+>media query :
 
-![Page 23.1](/Advanced-CSS/pic/responsive2.png)
+![Page 23.2](/Advanced-CSS/pic/responsive1.png)
 
-![Page 23.1](/Advanced-CSS/pic/responsive3.png)
+>css grid :
 
-![Page 23.1](/Advanced-CSS/pic/responsive4.png)
+![Page 23.3](/Advanced-CSS/pic/responsive2.png)
 
-![Page 23.1](/Advanced-CSS/pic/responsive5.png)
+![Page 23.4](/Advanced-CSS/pic/responsive3.png)
+
+>css flex box:
+
+![Page 23.5](/Advanced-CSS/pic/responsive4.png)
+
+>bootstrap framework :
+
+![Page 23.6](/Advanced-CSS/pic/responsive5.png)
 
 
 ---
@@ -403,3 +411,38 @@ then we can set  **clear : both** to delete **float : right** and **float : left
 [⬆ Back to Top](#css-advanced)
 
 ---
+
+
+
+<a id="page-21"></a>
+
+
+# 📖 Page 21  (display in css )
+
+https://appbrewery.github.io/css-display/
+
+
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+
+
+<a id="page-21"></a>
+
+
+# 📖 Page 21  (display in css )
+
+https://appbrewery.github.io/css-display/
+
+
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
