@@ -44,6 +44,8 @@
 | ✨ positioning | [page 20 →](#page-20) |
 | 📱 display | [page 21 →](#page-21) |
 | 🫧 float | [page 22 →](#page-22) |
+| 📲 Responsive | [page 23 →](#page-23) |
+
 
 </div>
 
@@ -337,7 +339,7 @@ https://appbrewery.github.io/css-display/
 
 # 📖 Page 22  (float in css )
 
-![Page 20](/Advanced-CSS/pic/float.png)
+![Page 22.1](/Advanced-CSS/pic/float.png)
 
 <div align="center">
 
@@ -349,7 +351,7 @@ when we set float for all items but we want an exeptions  we use 'clear'.
 </div>
 
 
-![Page 20](/Advanced-CSS/pic/float2.png)
+![Page 22.2](/Advanced-CSS/pic/float2.png)
 
 <div align="center">
 
@@ -366,6 +368,34 @@ then we can set  **clear : both** to delete **float : right** and **float : left
 
 </div>
 
+
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+
+
+<a id="page-23"></a>
+
+
+# 📖 Page 23  (Create responsive website )
+
+>some ways tat we can Create a responsive website :
+
+![Page 23.1](/Advanced-CSS/pic/responsive.png)
+
+![Page 23.1](/Advanced-CSS/pic/responsive1.png)
+
+![Page 23.1](/Advanced-CSS/pic/responsive2.png)
+
+![Page 23.1](/Advanced-CSS/pic/responsive3.png)
+
+![Page 23.1](/Advanced-CSS/pic/responsive4.png)
+
+![Page 23.1](/Advanced-CSS/pic/responsive5.png)
 
 
 ---
