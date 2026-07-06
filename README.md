@@ -2,8 +2,11 @@
 
 <div align="center">
 
-### ✍️ Handwritten Notes • 💡 Personal Knowledge Base • 🚀 Lifelong Learning
+![Page 24.5](/Advanced-CSS/pic/hint.png)
 
+
+### ✍️ Handwritten Notes • 💡 Personal Knowledge Base • 🚀 Lifelong Learning
+ 
 
 
 <br>

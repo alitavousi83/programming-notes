@@ -427,9 +427,22 @@ then we can set  **clear : both** to delete **float : right** and **float : left
 
 ![Page 24.2](/Advanced-CSS/pic/flex2.png)
 
-> but  when we use **"display : inline-flex "** all of these become 'block'
+> but  when we use **"display : inline-flex "** all of these become 'inline'
 
 ![Page 24.3](/Advanced-CSS/pic/flex3.png)
+
+>flex layout :
+
+https://appbrewery.github.io/flex-layout/
+
+>flex in chart : 
+
+![Page 24.4](/Advanced-CSS/pic/flex4.png)
+
+> hint :
+
+![Page 24.5](/Advanced-CSS/pic/hint.png)
+
 
 
 
