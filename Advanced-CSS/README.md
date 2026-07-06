@@ -45,7 +45,9 @@
 | 📱 display | [page 21 →](#page-21) |
 | 🫧 float | [page 22 →](#page-22) |
 | 📲 Responsive | [page 23 →](#page-23) |
-| @ Media Queries | [page 24 →](#page-24) |
+| 📊 flex | [page 24 →](#page-24) |
+| 📶 grid | [page 24 →](#page-24) |
+
 
 
 </div>
@@ -414,12 +416,21 @@ then we can set  **clear : both** to delete **float : right** and **float : left
 
 
 
-<a id="page-21"></a>
+<a id="page-24"></a>
 
 
-# 📖 Page 21  (display in css )
+# 📖 Page 24  (flex)
 
-https://appbrewery.github.io/css-display/
+![Page 24.1](/Advanced-CSS/pic/flex.png)
+
+> but  when we use **"display : flex "** all of these become 'block'
+
+![Page 24.2](/Advanced-CSS/pic/flex2.png)
+
+> but  when we use **"display : inline-flex "** all of these become 'block'
+
+![Page 24.3](/Advanced-CSS/pic/flex3.png)
+
 
 
 
