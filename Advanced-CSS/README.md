@@ -463,7 +463,7 @@ https://appbrewery.github.io/flexbox-sizing-exercise/
 
 
 
-<a id="page-25 "></a>
+<a id="page-25"></a>
 
 
 # 📖 Page 25  (Grid  in css )
