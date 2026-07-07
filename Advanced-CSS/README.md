@@ -435,15 +435,23 @@ then we can set  **clear : both** to delete **float : right** and **float : left
 
 https://appbrewery.github.io/flex-layout/
 
->flex in chart : 
+>flex poster : 
 
 ![Page 24.4](/Advanced-CSS/pic/flex4.png)
 
-> hint :
 
-![Page 24.5](/Advanced-CSS/pic/hint.png)
+>flex box froggy :
 
+https://appbrewery.github.io/flexboxfroggy/
 
+ >flex sizing :
+
+![Page 24.5](/Advanced-CSS/pic/flex5.png)
+
+>flex box sizing exercise
+
+https://appbrewery.github.io/flexbox-sizing-exercise/
+ 
 
 
 
