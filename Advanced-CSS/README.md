@@ -483,21 +483,5 @@ https://appbrewery.github.io/gridgarden/
 [⬆ Back to Top](#css-advanced)
 
 ---
-
-
-
-<a id="page-21"></a>
-
-
-# 📖 Page 21  (display in css )
-
-https://appbrewery.github.io/css-display/
-
-
-
 ---
-
-[⬆ Back to Top](#css-advanced)
-
 ---
-
