@@ -46,7 +46,7 @@
 | 🫧 float | [page 22 →](#page-22) |
 | 📲 Responsive | [page 23 →](#page-23) |
 | 📊 flex | [page 24 →](#page-24) |
-| 📶 grid | [page 24 →](#page-24) |
+| 📶 grid | [page 25 →](#page-25) |
 
 
 
@@ -440,7 +440,7 @@ https://appbrewery.github.io/flex-layout/
 ![Page 24.4](/Advanced-CSS/pic/flex4.png)
 
 
->flex box froggy :
+>flex box froggy game  :
 
 https://appbrewery.github.io/flexboxfroggy/
 
@@ -452,6 +452,29 @@ https://appbrewery.github.io/flexboxfroggy/
 
 https://appbrewery.github.io/flexbox-sizing-exercise/
  
+
+
+
+---
+
+[⬆ Back to Top](#css-advanced)
+
+---
+
+
+
+<a id="page-21"></a>
+
+
+# 📖 Page 25  (Grid  in css )
+
+> grid sizing in css :
+
+https://appbrewery.github.io/grid-sizing/
+
+> grid garden game :
+
+https://appbrewery.github.io/gridgarden/
 
 
 
