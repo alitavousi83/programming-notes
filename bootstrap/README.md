@@ -34,7 +34,7 @@
 
 | Topic | Jump |
 |-------|------|
-| 🌊 what is Bootstrap | [page 20 →](#page-20) |
+| ❓ what is Bootstrap | [page 21 →](#page-21) |
 | 🕹️ selectors | [page 18-19 →](#page-18) |
 | ✨ positioning | [page 20 →](#page-20) |
 | 📱 display | [page 21 →](#page-21) |
@@ -313,9 +313,18 @@
 
 # 📖 Page 21 ( what is Bootstrap ?)
 
-![Page 20](/bootstrap/pic/whatisbootstrap.png)
+> How to use bootstrap : using cdn = "content delivery network"
 
 
+![Page 21](/bootstrap/pic/whatisbootstrap.png)
+
+>💡 put this link in ```<head>``` :
+
+>📌```<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">```
+
+>💡 put this link before ```</body>``` :
+
+>📌```<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>```
 
 ---
 
