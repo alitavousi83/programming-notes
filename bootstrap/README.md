@@ -25,6 +25,32 @@
 </div>
 
 ---
+---
+---
+
+<div align="center">
+
+# 🅱️ Bootcamp
+
+| Topic | Jump |
+|-------|------|
+| 🌊 what is Bootstrap | [page 20 →](#page-20) |
+| 🕹️ selectors | [page 18-19 →](#page-18) |
+| ✨ positioning | [page 20 →](#page-20) |
+| 📱 display | [page 21 →](#page-21) |
+| 🫧 float | [page 22 →](#page-22) |
+| 📲 Responsive | [page 23 →](#page-23) |
+| 📊 flex | [page 24 →](#page-24) |
+| 📶 grid | [page 25 →](#page-25) |
+
+
+
+</div>
+
+---
+---
+---
+
 
 >⚠️ At the top of the image, page numbers 17 through 36 are displayed instead of the correct numbers (1 through 20); this is due to the Bootstrap transition affecting the advanced CSS in that section.
 
@@ -273,6 +299,23 @@
 # 📖 Page 20
 
 ![Page 20](pic/20.jpg)
+
+---
+
+[⬆ Back to Top](#bootstrap)
+
+---
+>bootcamp
+---
+
+
+<a id="page-21"></a>
+
+# 📖 Page 21 ( what is Bootstrap ?)
+
+![Page 20](/bootstrap/pic/whatisbootstrap.png)
+
+
 
 ---
 
