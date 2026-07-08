@@ -35,7 +35,7 @@
 | Topic | Jump |
 |-------|------|
 | ❓ what is Bootstrap | [page 21 →](#page-21) |
-| 🕹️ selectors | [page 18-19 →](#page-18) |
+| 🗺️ layout | [page 22 →](#page-22) |
 | ✨ positioning | [page 20 →](#page-20) |
 | 📱 display | [page 21 →](#page-21) |
 | 🫧 float | [page 22 →](#page-22) |
@@ -325,6 +325,66 @@
 >💡 put this link before ```</body>``` :
 
 >📌```<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>```
+
+---
+
+[⬆ Back to Top](#bootstrap)
+
+---
+
+<a id="page-22"></a>
+
+# 📖 Page 22 (🗺️⁀જ✈︎ layout)
+
+![Page 19](/bootstrap/pic/layout.png)
+
+<div align="center">
+
+>⚡ What is look like in code :
+![Page 19](/bootstrap/pic/layout2.png)
+
+╰┈➤ at first we need a "div" class 'container'
+
+ᯓ➤ after that we need "div" class  'row'
+
+⤿ and we need "div" class 'col' for items
+
+
+
+>⚡ Auto Fit :
+![Page 19](/bootstrap/pic/layout3.png)
+One of Bootstrap's features is its auto-fitting capability; <br>it automatically distributes the columns across the standard 12-column grid based on the number of columns we have.<br> For instance, if we have six columns, each will occupy two units of space, without requiring any specific configuration from us.
+
+>💠--- **Bootstrap container is Responsive** ---💠
+![Page 19](/bootstrap/pic/layout4.png)
+🔔  ".container-fluid" means ᯓ★ **all screen sizes** ★ᯓ
+
+>💠--- **How we can change the size of columns** ---💠
+![Page 19](/bootstrap/pic/layout5.png)
+🔔  the number after 'col' sets the size of column
+![Page 19](/bootstrap/pic/layout6.png)
+
+>💠--- **Bootstrap Break Points** ---💠
+![Page 19](/bootstrap/pic/layout7.png)
+🔔 for e.g. "col-sm-2"<br>
+🔔 with these Breakpoints we dont need **@media** too much . 
+
+
+
+
+</div>
+
+---
+
+[⬆ Back to Top](#bootstrap)
+
+---
+
+<a id="page-19"></a>
+
+# 📖 Page 19
+
+![Page 19](pic/190.jpg)
 
 ---
 
