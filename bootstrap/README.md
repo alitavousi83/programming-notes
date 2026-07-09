@@ -332,14 +332,17 @@
 
 ---
 
+
+
 <a id="page-22"></a>
 
 # 📖 Page 22 (🗺️⁀જ✈︎ layout)
 
 
 <div align="center">
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
 
-
+>![Page 19](/bootstrap/pic/layout.png)
 >⚡ What is look like in code :<br>
 ![Page 19](/bootstrap/pic/layout2.png)
 
@@ -362,7 +365,6 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 ![Page 19](/bootstrap/pic/layout4.png)
 🔔  ".container-fluid" means ᯓ★ **all screen sizes** ★ᯓ
 
-
 ──────────────── ⋆⋅𖤓⋅⋆ ────────────────
 
 
@@ -371,9 +373,7 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 🔔  the number after 'col' sets the size of column
 ![Page 19](/bootstrap/pic/layout6.png)
 
-
 ──────────────── ⋆⋅𖤓⋅⋆ ────────────────
-
 
 
 >💠--- **Bootstrap Break Points** ---💠<br>
@@ -381,7 +381,6 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 🔔 for e.g. "col-sm-2"<br>
 🔔 with these Breakpoints we dont need **@media** too much . 
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
 
 
 
