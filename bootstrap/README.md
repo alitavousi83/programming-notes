@@ -336,9 +336,9 @@
 
 # 📖 Page 22 (🗺️⁀જ✈︎ layout)
 
-![Page 19](/bootstrap/pic/layout.png)
 
 <div align="center">
+
 
 >⚡ What is look like in code :<br>
 ![Page 19](/bootstrap/pic/layout2.png)
@@ -349,26 +349,39 @@
 
 ⤿ and we need "div" class 'col' for items
 
-
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
 
 >⚡ Auto Fit :<br>
 ![Page 19](/bootstrap/pic/layout3.png)
 One of Bootstrap's features is its auto-fitting capability; <br>it automatically distributes the columns across the standard 12-column grid based on the number of columns we have.<br> For instance, if we have six columns, each will occupy two units of space, without requiring any specific configuration from us.
 
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+
+
 >💠--- **Bootstrap container is Responsive** ---💠<br>
 ![Page 19](/bootstrap/pic/layout4.png)
 🔔  ".container-fluid" means ᯓ★ **all screen sizes** ★ᯓ
+
+
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+
 
 >💠--- **How we can change the size of columns** ---💠<br>
 ![Page 19](/bootstrap/pic/layout5.png)
 🔔  the number after 'col' sets the size of column
 ![Page 19](/bootstrap/pic/layout6.png)
 
+
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+
+
+
 >💠--- **Bootstrap Break Points** ---💠<br>
 ![Page 19](/bootstrap/pic/layout7.png)
 🔔 for e.g. "col-sm-2"<br>
 🔔 with these Breakpoints we dont need **@media** too much . 
 
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
 
 
 
