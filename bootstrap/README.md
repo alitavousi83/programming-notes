@@ -381,6 +381,11 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 🔔 for e.g. "col-sm-2"<br>
 🔔 with these Breakpoints we dont need **@media** too much . 
 
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+
+>💠--- **Bootstrap Break Points** ---💠<br>
+![Page 19](/bootstrap/pic/layout8.png)
+🔔 for e.g. "col-sm-2"<br>
 
 
 
