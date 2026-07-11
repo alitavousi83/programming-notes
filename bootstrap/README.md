@@ -384,8 +384,15 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 ──────────────── ⋆⋅𖤓⋅⋆ ────────────────
 
 >💠--- **Bootstrap Break Points** ---💠<br>
+🔔"col-lg-4" for large screens<br>
 ![Page 19](/bootstrap/pic/layout8.png)
-🔔 for e.g. "col-sm-2"<br>
+🔔"col-lg-4" for medium screens<br>
+![Page 19](/bootstrap/pic/layout9.png)
+🔔"col-lg-4" for small screens<br>
+![Page 19](/bootstrap/pic/layout10.png) <br>
+
+
+
 
 
 
