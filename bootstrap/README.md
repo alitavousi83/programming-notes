@@ -391,8 +391,16 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 🔔"col-lg-4" for small screens<br>
 ![Page 19](/bootstrap/pic/layout10.png) <br>
 
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
 
+>💠--- **Mix and Match** ---💠<br>
+![Page 19](/bootstrap/pic/layout11.png)
 
+──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+>💠--- **Exercice** ---💠<br>
+🔔as you reduce the width , you can watch different<br>
+![Page 19](/bootstrap/pic/layout12.png)
+https://appbrewery.github.io/bootstrap-layout/
 
 
 
