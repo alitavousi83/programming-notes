@@ -36,7 +36,7 @@
 |-------|------|
 | ❓ what is Bootstrap | [page 21 →](#page-21) |
 | 🗺️ layout | [page 22 →](#page-22) |
-| ✨ positioning | [page 20 →](#page-20) |
+| ✨ component | [page 23 →](#page-23) |
 | 📱 display | [page 21 →](#page-21) |
 | 🫧 float | [page 22 →](#page-22) |
 | 📲 Responsive | [page 23 →](#page-23) |
@@ -340,7 +340,7 @@
 
 
 <div align="center">
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 
 >![Page 19](/bootstrap/pic/layout.png)
 >⚡ What is look like in code :<br>
@@ -352,20 +352,20 @@
 
 ⤿ and we need "div" class 'col' for items
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 
 >⚡ Auto Fit :<br>
 ![Page 19](/bootstrap/pic/layout3.png)
 One of Bootstrap's features is its auto-fitting capability; <br>it automatically distributes the columns across the standard 12-column grid based on the number of columns we have.<br> For instance, if we have six columns, each will occupy two units of space, without requiring any specific configuration from us.
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 
 
 >💠--- **Bootstrap container is Responsive** ---💠<br>
 ![Page 19](/bootstrap/pic/layout4.png)
 🔔  ".container-fluid" means ᯓ★ **all screen sizes** ★ᯓ
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 
 
 >💠--- **How we can change the size of columns** ---💠<br>
@@ -373,7 +373,7 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 🔔  the number after 'col' sets the size of column
 ![Page 19](/bootstrap/pic/layout6.png)
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 
 
 >💠--- **Bootstrap Break Points** ---💠<br>
@@ -381,7 +381,7 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 🔔 for e.g. "col-sm-2"<br>
 🔔 with these Breakpoints we dont need **@media** too much . 
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 
 >💠--- **Bootstrap Break Points** ---💠<br>
 🔔"col-lg-4" for large screens<br>
@@ -391,17 +391,44 @@ One of Bootstrap's features is its auto-fitting capability; <br>it automatically
 🔔"col-lg-4" for small screens<br>
 ![Page 19](/bootstrap/pic/layout10.png) <br>
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 
 >💠--- **Mix and Match** ---💠<br>
 ![Page 19](/bootstrap/pic/layout11.png)
 
-──────────────── ⋆⋅𖤓⋅⋆ ────────────────
+────── ⋆⋅𖤓⋅⋆ ──────
 >💠--- **Exercice** ---💠<br>
 🔔as you reduce the width , you can watch different<br>
 ![Page 19](/bootstrap/pic/layout12.png)
 https://appbrewery.github.io/bootstrap-layout/
 
+
+
+</div>
+
+---
+
+[⬆ Back to Top](#bootstrap)
+
+---
+
+<a id="page-23"></a>
+
+# 📖 Page 23 (‌components)
+
+<div align="center">
+
+────── ⋆⋅𖤓⋅⋆ ──────
+
+>Learn to use the pre-built and pre-styled Components
+
+![Page 19](/bootstrap/pic/component.png)
+
+![Page 19](/bootstrap/pic/component2.png)
+
+![Page 19](/bootstrap/pic/component3.png)
+
+────── ⋆⋅𖤓⋅⋆ ──────
 
 
 </div>
