@@ -428,6 +428,9 @@ https://appbrewery.github.io/bootstrap-layout/
 
 ![Page 19](/bootstrap/pic/component3.png)
 
+![Page 19](/bootstrap/pic/component4.png)
+
+
 ────── ⋆⋅𖤓⋅⋆ ──────
 
 
